@@ -1,0 +1,48 @@
+Git init			Creates a new repository
+
+Git add 			Add files to the staging area
+
+Git diff 			Shows changes in files from working directory to staging directory
+
+git show HEAD      --        	The output of this command will display everything the git log 
+			     	command displays for the HEAD commit, plus all the file changes 
+			   	that were committed.
+
+Git log 			Shows all commits done. Press q when done.
+
+Git commit -m 'Init commit'	Commit a file to the repository
+
+git checkout HEAD changes.txt	Return a file to wht it was before the commit
+git checkout -- filename 	Same as git checkout HEAD filename	
+
+git reset HEAD filename		Reset the files on staging area to that of commit
+
+git reset 5d69206		HEAD is now set to the commit for '5d69206'. We set it using the first 7 characters of SHA
+
+git merge branch_name		Merge a branch you created with Master
+
+
+git branch			Lists all a Git project's branches.
+
+git branch branch_name		Creates a new branch.
+
+git checkout branch_name	Used to switch from one branch to another.
+
+git branch -d branch_name	Deletes the branch specified.
+
+git clone remote_location clone_name    remote location can be a a path location.
+
+git remote -v			list of project's remotes 
+
+git fetch			it brings changes to a remote branch
+
+git merge origin/master		this merges the files from origin into your local master
+
+git push origin branchname 	push your branch to the remote server
+
+cd my-quizzes
+
+git add biology.txt
+
+HEAD is the most recent commit
+
