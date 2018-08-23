@@ -40,9 +40,5 @@ git merge origin/master		this merges the files from origin into your local maste
 
 git push origin branchname 	push your branch to the remote server
 
-cd my-quizzes
-
-git add biology.txt
-
 HEAD is the most recent commit
 
