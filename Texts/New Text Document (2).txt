@@ -1,0 +1,94 @@
+Sanjeet Mudhoo -- 
+YSD_WORKSTATEMENT_FORMS -- template for sap
+
+YMM_PACKING_LIST_FORMS 
+line 214
+
+Conga line, 
+
+http://www.samplecodeabap.com/sap-editable-alv-grid/
+DEMO_SEL_SCREEN_STATUS
+DEMO_SEL_SCREEN_FUNCTION_KEY
+
+cl_giu_alv_grid->REFRESH_TABLE_DISPLAY
+
+o_data -> xml, JSON
+
+Self aggrandizement: exaggerating one's own importance or power. 
+overkill: excessive use, treatment, or action.
+wallow: (of a person) indulge in an unrestrained way in (something that one finds pleasurable).
+disingenuous: not candid or sincere
+crutch: a thing used for support or reassurance.
+upside: the more positive aspect of a situation.
+indictment: a thing that serves to illustrate that a system or situation is bad and deserves to be condemned.
+lead-in: an introduction or preamble which allows one to move smoothly on to the next part of something.
+one-dimensional: lacking depth; superficial.
+rehash: reuse (old ideas or material) without significant change or improvement.
+casser sa pipe: etre mort
+avoir un poil dans la main: etre paresseux
+avoir la main verte: etre doué en qqchose
+en faire un fromage: transformer quelque chose qui était simple en une chose complexe
+gravitas: dignity, seriousness, or solemnity of manner.
+grommet: an eyelet placed in a hole to protect or insulate a rope or cable passed through it or to reinforce the hole.
+headlong: with the head foremost
+plop down: to sit or lie down in a heavy or careless way. 
+denizen: inhabitant
+dreg: the most undesirable part; the last part
+caveat: limitations
+grabatologist: collect neckties
+fusilatelist: collect phone cards
+numismatist: collect coins and medals
+brolliologist: collect umbrellas
+brandophilist: collector cigar brands
+helixophilist: corkscrew collector
+scabreux: embarassant
+Battre sa coulpe: Se repentir
+thalamus: e large mass of gray matter in the dorsal part of the diencephalon of the brain with several functions such as relaying of sensory signals, including motor signals, to the cerebral cortex
+limbic system is a set of brain structures located on both sides of the thalamus, immediately beneath the cerebrum.
+a dime a dozen: very common and of no particular value.
+tinker: attempt to repair or improve something in a casual or desultory way.
+mothball, chumminess, blistering harangue
+dendrology: the study of trees
+petrology: the branch of science concerned with the origin, structure, and composition of rocks.
+isobath: an imaginary line or one drawn on a map connecting all points of equal depth below the surface of a body of water. 
+camp david(maryland/presidential retreat),
+underpin: form the basis of
+Mastery requires both C-suite and grassroots
+conducive: making a certain situation or outcome likely or possible.
+comeuppance: a punishment or fate that someone deserves.
+on a tear: having great success over a period of time
+entrenched: ingrained
+corporeal: bodily
+ gloss over:to deal with (unpleasant facts) rapidly and cursorily, or to omit them altogether from an account of something
+Design thinking/design doing/design culture
+look over one's shoulder:  feel anxious all the time.
+rustler: cattle thief
+grunt work: basic work
+upshot : result
+de fil en auiguille: progressivement
+vainglorious: excessively proud of oneself
+Venture capital: capital invested at the start
+Seed funding
+Q-tips(cotton swab)
+Mind share: development of consumer awareness or popularity of a product.
+Mobile device management (MDM) 
+Bandai PipPin, Newton computer
+Darwin awards
+design thinkers tend to use physical models, also known as design artifacts, to explore, define, and communicate.
+
+barometer: blaise pascal
+isaac singer: important improvements in the design of the sewing machine 
+karl benz: first petrol powered automobile
+John Harvey Kellogg: corn flakes
+John Stith Pemberton: coca cola
+
+Charles Sanders Peirce(father of pragmatism)
+Darwin awards
+SE90 -> SALV.
+Round Robin
+https://collections.accenture.com/collection.aspx?b=d2cb6c0a-9abf-e511-8148-005056b167e3
+value table: domain
+modern user: SAP FIORI
+CAM(computer aided manufacturing)
+
+YHR_IPD

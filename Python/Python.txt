@@ -1,0 +1,40 @@
+**   	Exponent
+// 	Integer division/floored quotient
+#       comment
+The ** operator is evaluated first; the *, /, //, and % operators are evaluated next,
+
+String Replication
+'Alice' * 5			'AliceAliceAliceAliceAlice'
+
+Int(), Str(), Float()
+Len(), Round(), Print(), Input(), Abs()             # length, round, print, input, absolute
+
+3 data types -> Integer, Float, String
+Expression -> values + operators and can evaluate
+Statement -> operator + variable type + value stored
+
+Ctrl + c to cancel loop
+
+Import modules using 'Import'
+
+print() returns None.
+None represents the absence of a value.
+
+print('Hello', end='')
+print('World')   		# Prints HelloWorld
+end keyword argument to change this to a different string.
+
+print('cats', 'dogs', 'mice', sep = ',')    	# Prints cats,dogs,mice
+print('cats', 'dogs', 'mice')    		# Prints cats dogs mice
+
+def spam(divideBy):
+    try:
+        return 42 / divideBy
+    except ZeroDivisionError:
+        print('Error: Invalid argument.')
+
+String is immutable whereas list is mutable
+
+List(), Tuple()          		convert types from list to tuple or vice versa
+
+print(grid[j][i], end = '')		//do not print a new line

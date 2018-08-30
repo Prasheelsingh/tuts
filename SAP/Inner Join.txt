@@ -1,0 +1,25 @@
+ SELECT lips~vbeln
+             lips~posnr
+             lips~werks
+             marc~matnr
+             marc~stawn
+             marc~herkl
+          FROM marc INNER JOIN lips
+          ON lips~matnr = marc~matnr AND
+             lips~werks = marc~werks
+          INTO TABLE gt_marc
+          FOR ALL ENTRIES IN gt_temp
+          WHERE lips~vbeln = gt_temp-delnum.
+
+
+SELECTION-SCREEN BEGIN OF TABBED BLOCK a_ts FOR 16 LINES.
+SELECTION-SCREEN TAB (30) tsse USER-COMMAND tsse DEFAULT SCREEN 8001.
+SELECTION-SCREEN TAB (30) tsdf USER-COMMAND tsdf DEFAULT SCREEN 8002.
+
+
+MATCHCODE OBJECT
+SELECT-OPTIONS : S-TDOBJ FOR STXH-TDOBJ MATCHCODE OBJECT ZSHLP1
+
+CHECK v_number EQ 0.    " It works exactly the same as if and endif. When used inside a loop, if fails, exit loop else continue
+
+

@@ -1,0 +1,20 @@
+Message Type  order05
+Basic type    matmas
+Partner
+
+
+Create IDOC
+After going on wedi, go to development. Perform the steps 1 by 1.
+After doing those steps, go to Administration and do Partner Profile.
+
+IDOC has different segments that start with the 'E1'
+
+You can view function modules in std inbound
+
+
+For testing:
+1. Go to VL02N 
+2. Do extras  -> Delivery Output  -> Header
+3. Do further Data
+4. In requested processing, choose send with periodically scheduled job
+5. Run RSNAST00

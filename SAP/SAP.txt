@@ -1,0 +1,44 @@
+TU: Test Unitaire
+STD: Spécification Technique
+ABAP: Advanced Business Application Programming
+
+SE37: view/change function modules
+SE11: view/change tables/datatypes/domains
+SE38: view/change programs 
+se91: verification des messages
+Icon: table
+SU01: user maintenance
+se24: classes
+slg1: objects
+sproxy: proxy
+zacrt : accenture review tool
+smod: enhancements
+SXMB_MONI: xml files
+SE14 : ABAP Dictionary
+scc1 : transport from 800 to 810
+SLG1: check logs
+SMARTSTYLES: change fonts for smartforms
+SMARTFORMS
+pdf! : view pdfs
+SP01 : spools
+SO10 : view texts
+RSTXTRAN: (program)allow transports for texts
+WE02: view IDOC
+we19 - test idocs and view - standard outbound
+we87 - processer les idocs
+BD87 - manual creation idoc
+WEDI - logique pour developpement IDOC
+We20 - partner
+RSNAST00: run IDOCS
+
+TRDIR - name Z1SSDIC578_ASSIGNEMENT_NUM
+
+VA03 -> look at docs 
+VF11 -> delete doc
+
+Breakpoints
+-------------------------
+BREAK-POINT. xxx
+BREAK GMOOTOO.
+-------------------------
+
