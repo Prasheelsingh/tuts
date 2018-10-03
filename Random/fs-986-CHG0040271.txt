@@ -1,0 +1,10 @@
+VF03 - check error messages for program
+
+
+The transactions that can be used are: 
+VL01N/VL02N -> the transaction to create/modify the outbound deliveries from Sales orders
+VL10B -> the transaction to create in background the outbound deliveries from the purchase order (return to vendor)
+MIGO -> the transaction can be used to create a return via a delivery
+VL04 -> the transaction to create the deliveries by mass
+ME2O -> the transaction to create the delivery for subcontracting
+VL71 -> to reprocess outputs on deliveries already processed

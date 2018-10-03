@@ -18,3 +18,4 @@ For testing:
 3. Do further Data
 4. In requested processing, choose send with periodically scheduled job
 5. Run RSNAST00
+

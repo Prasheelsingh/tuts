@@ -1,0 +1,14 @@
+* ------------ * ----------------------------------------------------- *
+* 25.06.2018   * DEV427-1S-CR10-CHG0038654                             *
+* PGOBURDHUN   * The field 'CODCAM' has been added to the proxy        *
+* DS1K916516   *                                                       *
+* ------------ * ----------------------------------------------------- *
+
+* Begin of addition-DEV427-1S-CR10-CHG0038654-New Field PGOBURDHUN20180625
+        " Container Number
+        MOVE <fs_input>-codcam     TO gst_trace_table-codcam.
+        " Code SSCC colis
+        MOVE <fs_input>-codpal     TO gst_trace_table-codpal.
+* End of addition-  DEV427-1S-CR10-CHG0038654-New Field PGOBURDHUN20180625
+
+1S-MM-PGO-AB-INT-DEV494-CR02-CHG0039853-Daily stock matching

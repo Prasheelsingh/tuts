@@ -1,0 +1,21 @@
+----------------------------------
+[IMPORTANT NOTICE]
+----------------------------------
+Please don't modified the structure above. 
+Just modify marking without deleting any blank lines or comment in [] ;)
+----------------------------------
+[ADDITION MARKING | COMMAND:	ALT + CTRL + 1]
+*Begin of addition-DEV301-CR01-T25937-GMO-Implementation of Customer Filter GMOOTOO20160510
+*End of addition-DEV301-CR01-T25937-GMO-Implementation of Customer Filter GMOOTOO20160510
+
+[MODIFICATION MARKING | COMMAND:  ALT + CTRL + 2]	
+*Begin of modification-DEV301-CR01-T25937-GMO-Implementation of Customer Filter GMOOTOO20160510
+*End of modification-DEV301-CR01-T25937-GMO-Implementation of Customer Filter GMOOTOO20160510
+
+[DELETION MARKING | COMMAND:  ALT + CTRL + 3]
+*Begin of deletion-DEV301-CR01-T25937-GMO-Implementation of Customer Filter GMOOTOO20160510
+*End of deletion-DEV301-CR01-T25937-GMO-Implementation of Customer Filter GMOOTOO20160510
+
+[OTHER MARKING | COMMAND:  ALT + CTRL + 4]	
+*Begin of XXX DEV257-CR01-T13266-GMO-Adding empty tables functionality GMOOTOO20130425
+*End of XXX DEV257-CR01-T13266-GMO-Adding empty tables functionality GMOOTOO20130425

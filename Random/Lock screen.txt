@@ -1,0 +1,7 @@
+RENAME THIS FOLDER:
+
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy
+
+TO SOMETHING LIKE:
+
+C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy.bak

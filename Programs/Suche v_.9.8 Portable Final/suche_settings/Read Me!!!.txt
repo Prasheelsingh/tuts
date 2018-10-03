@@ -1,0 +1,41 @@
+Installation:
+-------------
+The folder 'suche_settings' must obligatory be in the root of drive 'C. E.g. 'C:\suche_settings'.
+
+The script 'Suche_v.9' (executable file) can be anywhere. But it is recommended to put it in 
+Windows startup folder.
+
+On Windows 7, the startup folder is at the following location:
+"C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+
+
+How to use:
+-----------
+
+Once the script 'Suche_v.9.8' has been executed, the following operations can be executed:
+
+Press buttons WIN + A to have access to the script.In the input box of the script, 
+the following commands can be executed:
+
+	> myconfig	: Main script configuration.
+	> mysaplogger	: SAP Connection Configuration.
+   	> myphones	: To open a quick notepad phonebook.
+	> mypasswords	: To edit quick password manager. Press CTRL + SHIFT + (F1 OR F2 OR F3 OR F4 OR F5 OR F6) to paste username and password set in the text file.
+	> mymarkings	: To edit quick code marking. Press ALT + CTRL + (1 OR 2 OR 3) to auto-paste marking in ABAP code. 
+	> glpib1	: To open GLPIB1 in the default browser.
+	> glpib2	: To open GLPIB2 in the default browser.
+	> oms		: To open OMS in the default browser.
+	> rtm	 	: To open RTM in the default browser.
+	> jira	 	: To open JIRA in the default browser.
+	> myte	 	: To open MYTE in the default browser.
+	> fs X   	: To open the B1 FS folder in the sharedrive for development number X. e.g fs 010 will opens B1 FS folder of DEV010. 
+	> td X   	: To open the B1 TD folder in the sharedrive for development number X. e.g td 010 will opens B1 TD folder of DEV010. 
+	> fsB2 X 	: To open the B2 FS folder in the sharedrive for development number X. e.g fsb2 010 will opens B2 FS folder of DEV010. 
+	> tdB2 X 	: To open the B2 TD folder in the sharedrive for development number X. e.g tdb2 010 will opens B2 TD folder of DEV010. 
+	> fs1s X 	: To open the 1S FS folder in the sharedrive for development number X. e.g fs1s 010 will opens 1S FS folder of DEV010. 
+	> td1s X 	: To open the 1s TD folder in the sharedrive for development number X. e.g td1s 010 will opens 1S TD folder of DEV010. 
+	> HELP		: Quick overview of Suche commands.
+	> AND MANY MORE COMMANDS.
+
+
+Enjoyz.

@@ -23,7 +23,7 @@ pdf! : view pdfs
 SP01 : spools
 SO10 : view texts
 RSTXTRAN: (program)allow transports for texts
-WE02: view IDOC
+we02: view IDOC
 we19 - test idocs and view - standard outbound
 we87 - processer les idocs
 BD87 - manual creation idoc

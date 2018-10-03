@@ -14,6 +14,15 @@ cl_giu_alv_grid->REFRESH_TABLE_DISPLAY
 
 o_data -> xml, JSON
 
+Quit India speech is a speech made by Mahatma Gandhi on 8 August 1942, on the eve of the Quit India movement
+Gandhi kept quiet on Monday
+amritsar massacre (1918)
+hickory nut
+snuff
+David Koresh: leader of the DAvidian
+tizzy: a state of nervous excitement or agitation.
+Almaty: ville des pommes, ancienne capitale du Kazakhstan(astana actuel) jusqu'en 1997
+misty-eyed: having tears in one's eyes through emotion.
 Self aggrandizement: exaggerating one's own importance or power. 
 overkill: excessive use, treatment, or action.
 wallow: (of a person) indulge in an unrestrained way in (something that one finds pleasurable).
@@ -75,7 +84,7 @@ Mobile device management (MDM)
 Bandai PipPin, Newton computer
 Darwin awards
 design thinkers tend to use physical models, also known as design artifacts, to explore, define, and communicate.
-
+novocaine
 barometer: blaise pascal
 isaac singer: important improvements in the design of the sewing machine 
 karl benz: first petrol powered automobile

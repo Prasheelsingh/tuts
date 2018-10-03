@@ -1,0 +1,4 @@
+Functional/ Manual testing (pref Agile testing exp).
+Database Testing (ETL etc)
+Automation (UFT/Selenium/TOSCA)
+Performance (LoadRunner)

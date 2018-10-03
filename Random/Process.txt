@@ -1,0 +1,8 @@
+1. FS Workshop(RCL/ Call with Func)
+2. Code
+3. Checklist
+4. CTP + Test
+5. TD
+6. Review
+7. Delivery    	-> CR01_YYYYMMDD		- Change Request
+		-> RW01_ticketNum		- Rework

@@ -1,0 +1,34 @@
+[Password 1: Command > CTRL + SHIFT + F1] - GLPIB1
+USERNAME
+PASSWORD
+
+[Password 2: Command > CTRL + SHIFT + F2] - JIRA	
+USERNAME
+PASSWORD
+
+[Password 3: Command > CTRL + SHIFT + F3] - Comments	
+USERNAME
+PASSWORD
+
+[Password 4: Command > CTRL + SHIFT + F4] - Comments	
+USERNAME
+PASSWORD
+
+[Password 5: Command > CTRL + SHIFT + F5] - Comments	
+USERNAME
+PASSWORD
+
+[Password 6: Command > CTRL + SHIFT + F6] - Comments	
+USERNAME
+PASSWORD
+
+
+[IMPORTANT NOTICE]
+Please don't modified the structure above. 
+Just modify the 'username' and 'password' without deleting any blank lines. ;)
+
+
+Please do NOT store important passwords! 
+These passwords are not encrypted, anybody can have access to them.
+
+

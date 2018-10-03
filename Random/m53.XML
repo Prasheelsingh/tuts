@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:MT_SAP_Picking_Update xmlns:ns1="http://shiseido/BPI/pi/SAP/IN/DEV040_II032_PICK_UPDATE_DERET">
+<RecordSet>
+<DELNUM>6000013274</DELNUM>
+<ITENUMBER>00010</ITENUMBER>
+<CANCEL_INDIC>*AN</CANCEL_INDIC>
+</RecordSet>
+</ns1:MT_SAP_Picking_Update>
